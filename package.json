@@ -26,6 +26,7 @@
     "aws-sdk": "^2.1114.0",
     "constructs": "^10.0.0",
     "jsii": "^1.56.0",
-    "source-map-support": "^0.5.16"
+    "source-map-support": "^0.5.16",
+    "yaml": "^2.0.0"
   }
 }
